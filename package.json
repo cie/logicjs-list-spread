@@ -1,0 +1,16 @@
+{
+  "name": "logicjs-list-spread",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "logicjs": "^1.0.0"
+  },
+  "devDependencies": {
+    "tinymocha": "^1.0.1"
+  }
+}
